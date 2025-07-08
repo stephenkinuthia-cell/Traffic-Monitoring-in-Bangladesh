@@ -1,0 +1,44 @@
+## 🚗 Lesson 6: The Self-Driving Trolley Problem
+
+### 🧾 Summary
+
+In this final lesson, I explored the ethical dimensions of artificial intelligence through the lens of the **self-driving trolley problem**, inspired by fragments from the article *“The Self-driving Trolley Problem: How Will Future AI Systems Make the Most Ethical Choices for All of Us?”* published by The Conversation in November 2021.
+
+As AI begins to make increasingly autonomous decisions — including life-or-death scenarios — it raises complex ethical questions about how algorithms should behave when human lives are at stake.
+
+
+
+### 🧠 Key Ideas I Reflected On
+
+- AI is already being used in critical fields like **health care, manufacturing**, and **transportation**, often with human oversight — but this may change in the future.
+- Robots do not possess a **moral conscience**; their ethical decisions are entirely shaped by the values encoded by developers.
+- Human morality varies widely — so what is "right" may depend on **who is designing** the system and where they are from.
+
+
+
+### 📌 What I Learned
+
+- AI may one day be capable of **making cost-benefit decisions about human life**, such as evaluating the "value" of a pedestrian vs. a passenger in a car crash scenario.
+- Facial recognition and personal data could hypothetically be used to **assign value** to individuals in real time — raising serious ethical red flags.
+- In the **Moral Machine experiment**, participants from countries with greater economic inequality were more likely to sacrifice the homeless over an executive — highlighting **bias** in human ethics and its potential influence on AI.
+- AI is not inherently good or evil; its impact depends on the **ethics of its creators** and the framework in which it's developed.
+
+
+
+### 🌍 Global Implications
+
+- Failures in AI design — like **racist soap dispensers** or **biased image labeling** — already show how poor ethical grounding can cause harm.
+- There is a strong need for a **global AI ethics standard**, as proposed by the **United Nations**, to guide how AI systems are designed and deployed, especially in critical life-affecting domains.
+
+
+
+### 📚 Reference
+
+Abu-Khalaf, Jumana, and Paul Haskell-Dowland.  
+*The Self-driving Trolley Problem: How Will Future AI Systems Make the Most Ethical Choices for All of Us?*  
+[The Conversation article](https://theconversation.com/the-self-driving-trolley-problem-how-will-future-ai-systems-make-the-most-ethical-choices-for-all-of-us-170961)
+
+
+### ✅ Conclusion
+
+This lesson challenged me to think beyond code and models. As I build intelligent systems, especially those related to public safety like traffic monitoring, I must consider **who is affected**, **how they’re treated**, and **what values are encoded** into the models I use. The future of AI depends not only on technical skill, but also on **ethical responsibility**.
